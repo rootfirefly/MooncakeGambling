@@ -1,0 +1,28 @@
+{
+  "__version__": "1.0.6",
+  "general": {
+    "designResolution": {
+      "width": 750,
+      "height": 1624,
+      "fitHeight": true,
+      "fitWidth": false
+    }
+  },
+  "fbx": {
+    "legacyFbxImporter": {
+      "visible": true
+    }
+  },
+  "physics": {
+    "gravity": {
+      "y": -10
+    },
+    "defaultMaterial": "b2d6a168-a05f-44b7-ac1a-bf7d42204bf7",
+    "fixedTimeStep": 0.016667,
+    "sleepThreshold": 0.01,
+    "allowSleep": true
+  },
+  "script": {
+    "preserveSymlinks": true
+  }
+}
